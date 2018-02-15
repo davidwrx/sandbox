@@ -1,7 +1,7 @@
 # sandbox
 Learning how to use git
 
-My first commit! - editing a previous change on master
+Resovling another conflict on master after pull from branch
 
 Making some more changes on the branch - editing some previous changes
 
