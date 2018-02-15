@@ -9,3 +9,4 @@ some more changes on the branch
 
 resolving conflicts on master after pull from branch
 
+making some changes and committing with visual studio plugin
