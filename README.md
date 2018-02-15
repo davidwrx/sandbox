@@ -3,8 +3,8 @@ Learning how to use git
 
 My first commit!
 
-Making some more changes on the branch
+Making some more changes on the branch - editing some previous changes
 
 some more changes on the branch
 
-some changes on master
+resolving conflicts on master after pull from branch
