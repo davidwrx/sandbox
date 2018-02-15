@@ -1,12 +1,12 @@
 # sandbox
 Learning how to use git
 
-Resovling another conflict on master after pull from branch
+re-resolving another conflict on master after pull from branch
 
 Making some more changes on the branch - editing some previous changes
 
 some more changes on the branch
 
-resolving conflicts on master after pull from branch
+re-resolving conflicts on master after pull from branch
 
-making some changes and committing with visual studio plugin
+resolving conflicts and committing with visual studio plugin
