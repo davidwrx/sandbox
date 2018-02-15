@@ -1,14 +1,12 @@
 # sandbox
 Learning how to use git
 
-My first commit! -editing a previous change on branch
+re-resolving another conflict on master after pull from branch
 
 Making some more changes on the branch - editing some previous changes
 
 some more changes on the branch
 
-some further changes on the branch
+re-resolving conflicts on master after pull from branch
 
-making further changes on the branch and committing with visual studio plugin
-
-making a change in branch to do pull request into master
+Resolving change on github
