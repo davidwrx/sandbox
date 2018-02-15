@@ -10,3 +10,5 @@ some more changes on the branch
 some further changes on the branch
 
 making further changes on the branch and committing with visual studio plugin
+
+making a change in branch to do pull request into master
